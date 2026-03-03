@@ -4,7 +4,7 @@ import Feature from '../components/Feature'
 const HomePage = () => {
   return (
     <>
-    <Feature />
+    {/* <Feature /> */}
     </>
   )
 }
